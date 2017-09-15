@@ -8,3 +8,4 @@
 2. Added a new avatar.
 3. Added a tooltip for the images.
 4. Added a quote display page.
+5. Modified actor.php to display the actor's name, role, mugshot & quote.
