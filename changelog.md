@@ -5,5 +5,5 @@
     Jayden Liang (A00950911)
 
 1. Initial Commit
-2. Created a 'new_quotation' branch
-    1. Added a new avatar.
+2. Added a new avatar.
+3. Added a tooltip for the images.
